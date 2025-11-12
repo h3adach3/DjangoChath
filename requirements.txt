@@ -21,8 +21,8 @@ Pillow==9.2.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.21
-Pygments==2.13.0
-pyOpenSSL==22.1.0
+Pygments==2.0
+pyOpenSSL==17.5.0
 pyparsing==3.0.9
 redis==4.3.4
 rich==12.6.0
